@@ -145,8 +145,8 @@
 </addon>
 
 <addon id="plugin.video.Zona.tv"
-       name="Zona.tv"
-       version="1.0"
+       name="Live-tv"
+       version="1.1"
        provider-name="Toro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
