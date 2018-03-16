@@ -150,7 +150,7 @@
 
 <addon id="plugin.video.Zona.tv"
        name="Zona.tv"
-       version="1.4"
+       version="1.5"
        provider-name="Toro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -174,7 +174,7 @@
   <extension point="xbmc.addon.repository" name="Toro Repository">
 		<info>https://raw.githubusercontent.com/Torokodi/Toro/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Torokodi/Toro/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/Torokodi/Toro/tree/master/Repositorio</datadir>
+        <datadir zip="true">https://raw.githubusercontent.com/Torokodi/Toro/master/Repositorio/</datadir>
 	</extension>
   <extension point="xbmc.addon.metadata">
     <summary>Zona.tv</summary>
